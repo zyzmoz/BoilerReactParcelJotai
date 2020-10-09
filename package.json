@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "parcel -p 3000 ./src/index.html",
-    "build": "parcel build ./src/index.html --public-url ./"
+    "build": "parcel build ./src/index.html ./dist --public-url ./"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",

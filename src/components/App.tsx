@@ -11,7 +11,7 @@ export const App: React.FC = () => {
         <Container
             style={{height: "100vh", display: "flex", alignItems: "center", justifyContent:"center", flexDirection:"column"}} 
         >
-            <Helmet title="App View"/>
+            <Helmet title="App"/>
             <div>
                 <b>{count}</b>
             </div>
