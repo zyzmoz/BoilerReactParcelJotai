@@ -1,0 +1,12 @@
+## Node 
+node_modules/
+
+## Cache
+.cache/
+
+## Build
+dist/
+
+## Misc 
+*.log
+*.sqlite
